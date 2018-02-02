@@ -1,3 +1,5 @@
 # Test Rename File
 
-New Line 
+New Line
+
+[My course notes](./notes.text)
