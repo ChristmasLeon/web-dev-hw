@@ -1,0 +1,5 @@
+## My responses to the questions
+- One way the data travels through the internet is via radio single.
+- Domain Name service (DNS) is mechanism to translate IP address to domain or vise vera, so that it is easier for human to remember a domain name instead of a long IP address.
+- Cookies are small files stored on our computer, it acts as an ID card to its user, so the web server can remember the user. It is designed to hold a modest amount of data specific to a particular client and website.
+- Three basic parts of a URL: Protocol, Server ID(Domain name), Path.
