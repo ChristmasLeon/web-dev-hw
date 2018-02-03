@@ -2,4 +2,4 @@
 
 New Line
 
-[My course notes](./notes.text)
+[My course notes](./notes.txt)
