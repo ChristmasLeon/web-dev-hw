@@ -1,4 +1,4 @@
-<h1>Technical Report</h1>
+# Technical Report
 
 - I mainly use Safari on my Mac machine and iPhone, and use Chrome on my Windows machine.
 
