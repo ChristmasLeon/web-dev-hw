@@ -10,4 +10,4 @@ Wayback Machine brought back many of my childhood memories. I went to Baidu.com 
 
 This assignment is quite tricky for me, by slowly and carefully learning the basics behind HTML tags and the how browsers functioning, I now had a basic understanding of how everything works.
 
-![workflow screenshot](./image/project-1 screenshot.png/)
+![workflow screenshot](./image/project-1 screenshot.png)
