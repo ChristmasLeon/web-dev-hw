@@ -1,4 +1,6 @@
 # Technical Report
+---
+
 
 - I mainly use Safari on my Mac machine and iPhone, and use Chrome on my Windows machine.
 
@@ -10,4 +12,4 @@ Wayback Machine brought back many of my childhood memories. I went to Baidu.com 
 
 This assignment is quite tricky for me, by slowly and carefully learning the basics behind HTML tags and the how browsers functioning, I now had a basic understanding of how everything works.
 
-![workflow screenshot](./image/project-1 screenshot.png)
+![](./image/project-1 screenshot.png)
