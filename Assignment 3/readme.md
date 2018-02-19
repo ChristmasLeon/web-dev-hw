@@ -1,4 +1,4 @@
-# Technical Report#
+# Technical Report
 ---
  According to W3C standard, only one *head* and *body* element is allowed in a page.
 
