@@ -17,4 +17,4 @@ The problem I had during this assignment, was that my "Back to Home" didn't work
 
 I learned many things in this assignment, now I'll always use my developer tools in the browser to try to read and learn the code of certain websites.
 
-![screenshot](./images/screenshot assignment-3.png)
+![screenshot](./images/screenshot-assignment-3.png)
