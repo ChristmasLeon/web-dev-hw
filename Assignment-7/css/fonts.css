@@ -1,0 +1,36 @@
+@@import "<link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Slabo+27px" rel="stylesheet">";
+@@font-face {
+  font-family: 'Slabo 27px', serif;
+  scr: url ('./fonts/Slabo27px-Regular.ttf') format ('opentype');
+  font-weight: normal; font-style:italic;
+}
+@@font-face {
+  font-family: 'Roboto Slab', serif; format ('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+h1{ font-family: 'Slabo 27px', serif;
+font-weight: bold;
+font-size: 90px
+}
+
+h2{ font-family: 'Slabo 27px', serif;
+font-weight: normal;
+font-size: 70px}
+
+h3{font-family:'Slabo 27px', serif;
+font-weight: lighter;
+font-size: 40px}
+
+. main content p:first-child::first-letter{font-family: 'Slabo 27px', serif;
+font-size: 50 px;
+font-weight: bold;}
+
+p{font-family: 'Roboto Slab', serif;
+font-weight: normal;font-size: 38px}
+
+* {letter-spacing: 0.5px;}
+
+Button {font-family: 'Slabo 27px', serif;
+font-weight: 300;
+font-size: 40 px;}
