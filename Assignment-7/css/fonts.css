@@ -11,16 +11,16 @@
 }
 h1{ font-family: 'Slabo 27px', serif;
 font-weight: bold;
-font-size: 90px
+font-size: 80px
 }
 
 h2{ font-family: 'Slabo 27px', serif;
 font-weight: normal;
-font-size: 70px}
+font-size: 60px}
 
 h3{font-family:'Slabo 27px', serif;
 font-weight: lighter;
-font-size: 40px}
+font-size: 50px}
 
 . main content p:first-child::first-letter{font-family: 'Slabo 27px', serif;
 font-size: 50 px;
